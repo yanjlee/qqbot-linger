@@ -1,4 +1,4 @@
-```markdown
+
 # Ling'er: A Personal QQ Bot
 
 ## Features
